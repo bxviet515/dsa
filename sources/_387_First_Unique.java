@@ -21,7 +21,7 @@
         }
 
         public static void main(String[] args) {
-            String s = "loveleetcode";
+            String s = "aabb";
             System.out.println(firstUniqChar(s));
         }
     }
